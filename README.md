@@ -4,10 +4,9 @@
 Aspiring data analyst with a passion for uncovering insights that drive real business value. My projects go beyond numbers and dashboards—they reflect my ability to think critically, craft data-driven solutions, and communicate insights with clarity. Each project highlights not only technical skills like Power BI, SQL, and Excel, but also my understanding of customer behavior and business needs. I bring a unique blend of technical proficiency and analytical perspective to solve real-world problems.
 
 ## Skills
-Microsoft Excel, Microsoft PowerBI, SQL, AWS, ETL
+Microsoft Excel · Microsoft PowerBI · SQL · AWS · ETL · Data Analytics · Business Intelligence (BI)
 
 ## Projects
-
 ### Aurex Bank – Dynamic Credit Card Performance Monitoring Dashboard
 
 - Cleaned and transformed raw transaction and customer data in Excel; imported structured datasets into SQL for relational modeling and optimized querying.
