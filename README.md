@@ -2,7 +2,7 @@
 
 ## Summary
 
-Aspiring data analyst with a strong foundation in business systems and computer science. Passionate about transforming data into actionable insights through visualization and statistical techniques. Skilled in tools like Power BI, SQL, and Excel to build impactful dashboards and reports.
+Aspiring data analyst with a passion for uncovering insights that drive real business value. My projects go beyond numbers and dashboards—they reflect my ability to think critically, craft data-driven solutions, and communicate insights with clarity. Each project highlights not only technical skills like Power BI, SQL, and Excel, but also my understanding of customer behavior and business needs. I bring a unique blend of technical proficiency and analytical perspective to solve real-world problems.
 
 ## Projects
 
