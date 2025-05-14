@@ -1,7 +1,6 @@
-# Data Analyst Portfolio
+# Business Intelligence & Analytics Portfolio
 
 ## Summary
-
 Aspiring data analyst with a passion for uncovering insights that drive real business value. My projects go beyond numbers and dashboards—they reflect my ability to think critically, craft data-driven solutions, and communicate insights with clarity. Each project highlights not only technical skills like Power BI, SQL, and Excel, but also my understanding of customer behavior and business needs. I bring a unique blend of technical proficiency and analytical perspective to solve real-world problems.
 
 ## Skills
@@ -44,25 +43,15 @@ NMIMS, Mukesh Patel School of Technology Management & Engineering, Mumbai
 
 ## Licenses & Certifications
 
-**Career Essentials in Data Analysis By Microsoft and LinkedIn**
-** [Certificate Link](https://www.linkedin.com/learning/certificates/8996eb864f65413de8024461522043a97d0664928207f2dcbef826f348996a41) 
-**Skills:**  
-Data Engineering · SQL · 
+### [Career Essentials in Data Analysis By Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/8996eb864f65413de8024461522043a97d0664928207f2dcbef826f348996a41)  
+**Skills:** Data Analysis · Data Visualization
 
-**Complete Guide to SQL for Data Engineering: from Beginner to Advanced**
-** [Certificate Link](https://www.linkedin.com/learning/certificates/16a1c451e137e334eb22c32243248c4912dd4c3d849df1135ca1cd54d2ff076d) 
-**Skills:**  
-Data Analytics · Data Analysis · Data Visualization
+### [Complete Guide to SQL for Data Engineering: from Beginner to Advanced](https://www.linkedin.com/learning/certificates/16a1c451e137e334eb22c32243248c4912dd4c3d849df1135ca1cd54d2ff076d)  
+**Skills:** Data Engineering · SQL
 
-**Excel for Business Analysts**
-** [Certificate Link](https://www.linkedin.com/learning/certificates/a6f2df1fa78787fea8b5e01ee67463a3c82efd8c0ad63590fc2bf913ca27e172) 
-**Skills:**  
-Data Analytics · Data Analysis · Data Visualization
+### [Excel for Business Analysts](https://www.linkedin.com/learning/certificates/a6f2df1fa78787fea8b5e01ee67463a3c82efd8c0ad63590fc2bf913ca27e172)  
+**Skills:** Microsoft Excel · Business Analysis
+ 
 
-**Excel for Financial Planning and Analysis (FP&A)**
-** [Certificate Link](https://www.linkedin.com/learning/certificates/ad74302ad74e636a58e56a3ea29c6fc059b8e4e131a028b5c7d4cf16c7d59884) 
-**Skills:**  
-Financial Analysis · Microsoft Excel · Financial Planning
-
-
-
+### [Excel for Financial Planning and Analysis (FP&A)](https://www.linkedin.com/learning/certificates/ad74302ad74e636a58e56a3ea29c6fc059b8e4e131a028b5c7d4cf16c7d59884)  
+**Skills:** Financial Analysis · Microsoft Excel · Financial Planning
