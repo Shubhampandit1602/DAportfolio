@@ -4,6 +4,19 @@
 
 Aspiring data analyst with a strong foundation in business systems and computer science. Passionate about transforming data into actionable insights through visualization and statistical techniques. Skilled in tools like Power BI, SQL, and Excel to build impactful dashboards and reports.
 
+## Projects
+
+### Aurex Bank – Dynamic Credit Card Performance Monitoring Dashboard
+
+Built an interactive Power BI dashboard for Aurex Bank to track weekly credit card KPIs—revenue, transactions, activations, and delinquency trends. Integrated customer and card data to enable deep financial insights and performance monitoring.
+
+**Skills:**  
+Microsoft Power BI · Data Analytics · SQL · Financial Analysis · Business Intelligence (BI) · Microsoft Excel
+
+🔗 **LinkedIn Project Link:** [LinkedIn](https://www.linkedin.com/in/shubham-pandit-04887822b/details/projects/)  
+📊 **Dashboard Demo (Video):** [Google Drive](https://drive.google.com/drive/folders/1PyQy45Azml6Zrw-CLH1W9gK0AJs918aB)  
+📁 **GitHub Repository:** `<link>`
+
 ## Education
 
 **B.Tech – Computer Science & Business Systems (CSBS)**  
@@ -21,18 +34,6 @@ HSC, M.J Junior College of Science, Mumbai
 SSC, Don Bosco High School, Mumbai  
 **Score:** 86.60%
 
-## Projects
-
-### Aurex Bank – Dynamic Credit Card Performance Monitoring Dashboard
-
-Built an interactive Power BI dashboard for Aurex Bank to track weekly credit card KPIs—revenue, transactions, activations, and delinquency trends. Integrated customer and card data to enable deep financial insights and performance monitoring.
-
-**Skills:**  
-Microsoft Power BI · Data Analytics · SQL · Financial Analysis · Business Intelligence (BI) · Microsoft Excel
-
-🔗 **LinkedIn Project Link:** [LinkedIn](https://www.linkedin.com/in/shubham-pandit-04887822b/details/projects/)  
-📊 **Dashboard Demo (Video):** [Google Drive](https://drive.google.com/drive/folders/1PyQy45Azml6Zrw-CLH1W9gK0AJs918aB)  
-📁 **GitHub Repository:** `<link>`
 
 ## Licenses & Certifications
 
