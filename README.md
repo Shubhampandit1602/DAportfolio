@@ -7,7 +7,7 @@ Aspiring data analyst with a passion for uncovering insights that drive real bus
 Microsoft Excel · Microsoft PowerBI · SQL · AWS · ETL · Data Analytics · Business Intelligence (BI)
 
 ## Projects
-### Aurex Bank – Dynamic Credit Card Performance Monitoring Dashboard
+### 1. Aurex Bank – Dynamic Credit Card Performance Monitoring Dashboard
 
 - Cleaned and transformed raw transaction and customer data in Excel; imported structured datasets into SQL for relational modeling and optimized querying.
 - Connected SQL to Power BI to design a dynamic weekly dashboard with automated updates; leveraged DAX for KPI calculations (e.g., revenue trends, delinquency rates, activation metrics).
@@ -21,7 +21,7 @@ Microsoft Power BI  · SQL · Microsoft Excel · Financial Analysis · Business 
 📁 **GitHub Repository:** [GitHub](https://github.com/Shubhampandit1602/Credit_Card_Financial_Dashboard) 
 
 
-### Strategic Merger Analysis of LioCinema and Jotstar OTT Platforms
+### 2. Strategic Merger Analysis of LioCinema and Jotstar OTT Platforms
 - Analyzed user demographics, revenue trends, and content engagement from both platforms to assess merger impact across regional and premium audience segments.
 - Evaluated subscription behaviors, including upgrade/downgrade patterns, to guide pricing and retention strategies post-merger.
 - Delivered actionable insights to support scalable content planning and unified platform development for expanded market positioning in the Indian OTT sector.
